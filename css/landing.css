@@ -1,0 +1,49 @@
+header{
+ 
+   backdrop-filter: blur 20px;
+    
+    background-color: rgb(255 255 255 / 0.3);/
+}
+body{
+    background-color: azure;
+    font-size: 1.5rem;
+background-image: url(https://wallpapercave.com/wp/wp2555056.jpg);
+padding-top: 2rem;
+
+}
+
+.brand{
+    margin-left:6rem;
+    color: azure;
+   font-size: 2rem;
+   font-weight: bolder;
+}
+
+.nav-link{
+   color: azure;
+   font-weight: bolder;
+ margin-right: 3rem;
+ text-decoration: underline  black;
+}
+
+.content{
+    text-align: center;
+
+    padding-top: 10rem;
+ 
+}
+h1{
+    font-size: 6rem;
+    color: azure;
+    text-shadow: 4px 4px 4px black, 4px 4px 4px navy,4px 4px 4px gray;
+}
+p{
+    padding-top: 3rem;
+    text-align: center;
+    color: azure;
+    text-shadow: 6px 4px 5px black ,6px 4px 5px black;
+}
+.button{ padding-top: 3rem;
+  text-align: center;
+
+}
